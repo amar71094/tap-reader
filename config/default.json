@@ -18,7 +18,7 @@
     "enableWebsockets": true,
     "websocketPort": 5095,
     "websocketCORS": "*",
-    "channel": "53b2c0e70485790d7f086edbbbb8e624a165667bc74b12034d9774c2f3ce503c",
+    "channel": "42b96d26080afde178b621fbe9a1680250c18811fb52356acc6580256abb781e",
     "enableBlockDownloader": true,
     "host" : "0.0.0.0"
 }
